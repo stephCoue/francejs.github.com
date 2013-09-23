@@ -1,1 +1,3 @@
 exclude: [config.rb, readme.md]
+
+baseurl: "/francejs.github.com"
